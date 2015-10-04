@@ -1,0 +1,30 @@
+{
+  "name": "express-route-fs",
+  "version": "0.1.0",
+  "description": "File system-based approach for handling routes in Express.",
+  "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kripod/express-route-fs.git"
+  },
+  "keywords": [
+    "express",
+    "route",
+    "fs",
+    "file",
+    "system"
+  ],
+  "author": "Kristóf Poduszló <kripod@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kripod/express-route-fs/issues"
+  },
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.9.2",
+    "gulp-uglify": "^1.4.1",
+    "gulp-util": "^3.0.6",
+    "merge-stream": "^1.0.0"
+  }
+}
